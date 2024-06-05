@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+## Soy un estudiante de licenciatura en informatica, en esta cuenta subire mis avances tanto academicos como laborales ^^
 <!--
 **FranLorenzoo/FranLorenzoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
