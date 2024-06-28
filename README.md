@@ -2,10 +2,25 @@
 # Soy un estudiante de licenciatura en informatica, en esta cuenta subiré mis avances tanto academicos como laborales ^^
 
 ## Trabajo
-  
+  Tecnom
 ## Proyectos Personales
-
+  PORTAFOLIO
+  AGENDA DE TURNOS
+  TO-DO LIST
 ##Facultad
+  #PRIMER AÑO
+    TALLER
+
+  #SEGUNDO AÑO
+    OBJETOS 1
+    INGENIERIA 1
+    FOD
+    SEMINARIO .NET
+    AYED
+    ISO
+
+  #TERCER AÑO
+    MATEMATICA 3
 <!--
 **FranLorenzoo/FranLorenzoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
