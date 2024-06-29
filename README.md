@@ -5,7 +5,7 @@
   Tecnom
 ## Proyectos Personales
   <a href="https://github.com/FranLorenzoo/FranLorenzoo.github.io">
-        <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=FranLorenzoo&repo=Portafolio&theme=dark" />
+        <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=FranLorenzoo&repo=FranLorenzoo.github.io&theme=dark" />
   </a>
   AGENDA DE TURNOS
   TO-DO LIST
