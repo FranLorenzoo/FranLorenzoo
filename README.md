@@ -14,12 +14,30 @@
     TALLER
 
   # SEGUNDO AÑO
-    OBJETOS 1
-    INGENIERIA 1
-    FOD
-    SEMINARIO .NET
-    AYED
-    ISO
+  <a href="https://github.com/FranLorenzoo/Orientado-Objetos-1">
+        <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=FranLorenzoo&repo=Orientado-Objetos-1&theme=dark" />
+  </a>
+  
+  <a href="https://github.com/FranLorenzoo/Seminario-.net">
+        <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=FranLorenzoo&repo=Seminario-.net&theme=dark" />
+  </a>
+  <a href="https://github.com/FranLorenzoo/Introducci-n-a-Sistemas-Operativos">
+        <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=FranLorenzoo&repo=Introducci-n-a-Sistemas-Operativos&theme=dark" />
+  </a>
+  
+    
+  <a href="https://github.com/FranLorenzoo/Algoritmos-y-Estructuras-de-Datos">
+        <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=FranLorenzoo&repo=Algoritmos-y-Estructuras-de-Datos&theme=dark" />
+  </a>
+    
+  <a href="https://github.com/FranLorenzoo/Ingeneria-de-Software-1">
+        <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=FranLorenzoo&repo=Ingeneria-de-Software-1&theme=dark" />
+  </a>
+  
+  <a href="https://github.com/FranLorenzoo/Fundamento-de-Organizaci-n-de-Datos">
+        <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=FranLorenzoo&repo=Fundamento-de-Organizaci-n-de-Datos&theme=dark" />
+  </a>
+    
 
   # TERCER AÑO
     MATEMATICA 3
