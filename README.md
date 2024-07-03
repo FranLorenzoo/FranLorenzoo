@@ -1,4 +1,4 @@
-## Hi there 👋
+
 # Soy un estudiante de licenciatura en informatica, en esta cuenta subiré mis avances tanto academicos como laborales ^^
 
 ## Trabajo
