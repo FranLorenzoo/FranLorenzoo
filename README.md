@@ -1,23 +1,23 @@
 
 # Soy un estudiante de licenciatura en informatica, en esta cuenta subiré mis avances tanto academicos como laborales ^^
 
-## Trabajo
+# Trabajo
   Tecnom
-## Proyectos Personales
+# Proyectos Personales
   <a href="https://github.com/FranLorenzoo/FranLorenzoo.github.io">
         <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=FranLorenzoo&repo=FranLorenzoo.github.io&theme=dark" />
   </a>
   
 
-## Facultad
+# Facultad
 
-  # Primer Año
+  ## Primer Año
     
   <a href="https://github.com/FranLorenzoo/Taller">
         <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=FranLorenzoo&repo=Taller&theme=dark" />
   </a>
 
-  # SEGUNDO AÑO
+  ## SEGUNDO AÑO
   <a href="https://github.com/FranLorenzoo/Orientado-Objetos-1">
         <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=FranLorenzoo&repo=Orientado-Objetos-1&theme=dark" />
   </a>
@@ -43,7 +43,7 @@
   </a>
     
 
-  # TERCER AÑO
+  ## TERCER AÑO
     MATEMATICA 3
 <!--
 **FranLorenzoo/FranLorenzoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
