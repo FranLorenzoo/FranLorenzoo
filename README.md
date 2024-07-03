@@ -2,7 +2,7 @@
 # Soy un estudiante de licenciatura en informatica, en esta cuenta subiré mis avances tanto academicos como laborales ^^
 
 # Trabajo
-  Tecnom
+  tecnom 
 # Proyectos Personales
   <a href="https://github.com/FranLorenzoo/FranLorenzoo.github.io">
         <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=FranLorenzoo&repo=FranLorenzoo.github.io&theme=dark" />
