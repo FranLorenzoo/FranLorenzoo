@@ -5,7 +5,10 @@
   <img src="https://i.pinimg.com/originals/e2/26/2a/e2262abead5282543af37d4fb8abe58b.jpg" height="200" width="200">
 </div>
 
-### Soy un estudiante de licenciatura en informatica, en esta cuenta subiré mis avances tanto academicos como laborales ^^
+### Soy un estudiante de licenciatura en informatica, en esta cuenta subiré mis avances tanto academicos como laborales 🤓
+
+- 📩 contacto: jfranlorenzo@gmail.com
+- 💼 <a href="https://www.linkedin.com/in/juan-francisco-lorenzo-b158a7260/">linkedin</a>
 
 # Trabajo
   tecnom 
