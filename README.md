@@ -7,11 +7,15 @@
   <a href="https://github.com/FranLorenzoo/FranLorenzoo.github.io">
         <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=FranLorenzoo&repo=FranLorenzoo.github.io&theme=dark" />
   </a>
-  AGENDA DE TURNOS
-  TO-DO LIST
+  
+
 ## Facultad
-  # PRIMER AÑO
-    TALLER
+
+  # Primer Año
+    
+  <a href="https://github.com/FranLorenzoo/Taller">
+        <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=FranLorenzoo&repo=Taller&theme=dark" />
+  </a>
 
   # SEGUNDO AÑO
   <a href="https://github.com/FranLorenzoo/Orientado-Objetos-1">
