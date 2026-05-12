@@ -12,4 +12,5 @@
 
 # Work
   tecnom
+  
   *Stack*: Next JS, LangGraph, Dynamo, MySQL.
