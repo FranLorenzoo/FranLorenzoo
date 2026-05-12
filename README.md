@@ -5,7 +5,7 @@
   <img src="https://i.pinimg.com/originals/e2/26/2a/e2262abead5282543af37d4fb8abe58b.jpg" height="200" width="200" padding="6px">
 </div>
 
-### I'm a Software Developer at Tecnom and an advanced student in Computer Science at UNLP, in this account you may find my projects and content about my studies.
+### I'm a Software Developer at Tecnom and an advanced Computer Science student at UNLP, in this account you may find my projects and content about my studies.
 
 - 📩 contact: jfranlorenzo@gmail.com
 - 💼 <a href="https://www.linkedin.com/in/juan-francisco-lorenzo-b158a7260/">linkedin</a>
