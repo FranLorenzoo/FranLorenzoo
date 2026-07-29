@@ -11,6 +11,6 @@
 - 💼 <a href="https://www.linkedin.com/in/juan-francisco-lorenzo-b158a7260/">linkedin</a>
 
 # Work
-  tecnom
+  Semi Senior Software Engineer at Tecnom
   
   *Stack*: Next JS, LangGraph, Dynamo, MySQL.
